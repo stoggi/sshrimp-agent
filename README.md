@@ -1,8 +1,5 @@
-# sshrimp-agent
-🦐SSH Agent that uses OIDC to authenticate users via sshrimp-lambda
+# Moved!
 
-As presented at linux.conf.au - Zero Trust SSH https://linux.conf.au/schedule/presentation/54/
+Hello! Did you come from the Zero Trust SSH video?
 
-http://youtu.be/lYzklWPTbsQ
-
-Code will be published shortly, Star the repo for updates ;)
+You are probably looking for https://github.com/stoggi/sshrimp it's just a single repo.
